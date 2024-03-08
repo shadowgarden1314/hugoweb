@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://hugo.hellowold.dynv6.net/en/sitemap.xml</loc>
+    <loc>http://localhost:54379/en/sitemap.xml</loc>
     
       <lastmod>2024-03-09T03:14:24+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://hugo.hellowold.dynv6.net/ar/sitemap.xml</loc>
+    <loc>http://localhost:54379/ar/sitemap.xml</loc>
     
   </sitemap>
   
