@@ -5,6 +5,128 @@
     <link>https://hugo.hellowold.dynv6.net/tags/</link>
     <description>Recent content in Tags on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://hugo.hellowold.dynv6.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Mar 2024 03:14:24 +0800</lastBuildDate><atom:link href="https://hugo.hellowold.dynv6.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index</title>
+      <link>https://hugo.hellowold.dynv6.net/tags/index/</link>
+      <pubDate>Sat, 09 Mar 2024 03:14:24 +0800</pubDate>
+      
+      <guid>https://hugo.hellowold.dynv6.net/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://hugo.hellowold.dynv6.net/tags/demo/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://hugo.hellowold.dynv6.net/tags/demo/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shortcode</title>
+      <link>https://hugo.hellowold.dynv6.net/tags/shortcode/</link>
+      <pubDate>Fri, 18 Mar 2022 21:47:41 +0000</pubDate>
+      
+      <guid>https://hugo.hellowold.dynv6.net/tags/shortcode/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Redirect</title>
+      <link>https://hugo.hellowold.dynv6.net/tags/redirect/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.hellowold.dynv6.net/tags/redirect/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RedirectUrl</title>
+      <link>https://hugo.hellowold.dynv6.net/tags/redirecturl/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.hellowold.dynv6.net/tags/redirecturl/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>https://hugo.hellowold.dynv6.net/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.hellowold.dynv6.net/tags/css/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>https://hugo.hellowold.dynv6.net/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.hellowold.dynv6.net/tags/html/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://hugo.hellowold.dynv6.net/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.hellowold.dynv6.net/tags/markdown/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Text</title>
+      <link>https://hugo.hellowold.dynv6.net/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.hellowold.dynv6.net/tags/text/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji</title>
+      <link>https://hugo.hellowold.dynv6.net/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.hellowold.dynv6.net/tags/emoji/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Thumbnail</title>
+      <link>https://hugo.hellowold.dynv6.net/tags/thumbnail/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.hellowold.dynv6.net/tags/thumbnail/</guid>
+      
+        <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
