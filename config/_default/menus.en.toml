@@ -1,0 +1,15 @@
+
+  
+  [[main]]
+  name = "文章"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+
+
+  [[footer]]
+  name = "Elaina"
+  weight = 1
+  identifier = "Elaina"
+  url = "https://blog.hellowold.dynv6.net/?theme=hexo"

@@ -1,0 +1,4 @@
+baseURL = 'https://hugo.hellowold.dynv6.net/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'anatole'
